@@ -1,6 +1,6 @@
 # Desafio-OnCase
 
-O código começa importando as bibliotecas necessárias para executá-lo
+O código começa importando as bibliotecas necessárias para executá-lo.
 
 Após importar as bibliotecas são obtidos publicações de 4 portais sobre tecnologia, são eles:
 	- https://www.tecmundo.com.br/
